@@ -8,6 +8,8 @@ function App() {
     <Dinner dishName="chicken Karahi"  sweetDish="gulaab jamun"/>
     <Dinner dishName="chicken biryani"  sweetDish="kheer"/>
     <Dinner dishName="chicken nihari"  sweetDish="halwa"/>
+    <Dinner dishName="chalay ga ab aoutomatoicalayyy"  sweetDish="halwa"/>
+
 
 
     </div>
