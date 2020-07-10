@@ -35,6 +35,6 @@ jobs:
     - name: installing surge
       run: npm install -g surge
     - name: deploying surge
-      run: surge./build http://late-alley.surge.sh/ -- token ${{secrets.SURGE_REACT_APP}}
+      run: surge ./build http://late-alley.surge.sh/ --token ${{secrets.SURGE_REACT_APP}}
       
        
