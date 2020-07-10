@@ -37,4 +37,4 @@ jobs:
     - name: deploying surge
       run: surge ./build http://late-alley.surge.sh/ --token ${{secrets.SURGE_REACT_APP}}
       
-       
+       #run: surge ./build http://cooing-branch.surge.sh/ -- token $ {{ secrets.surge_token1}}
